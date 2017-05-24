@@ -1,4 +1,4 @@
-# Randsom cry Project: Gotcha!
+# Ransom cry Project for Holberton School: Gotcha!
 
 ## !!Warning: Do not download and execute `test.РDF` or `crackme`.
 
